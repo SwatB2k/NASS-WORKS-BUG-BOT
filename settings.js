@@ -16,7 +16,7 @@ global.ytname = "YT: NASSWORKS"
 global.socialm = "Github: NASS-WORKS"
 global.location = "NIGERIA,FCT"
 
-global.ownernumber = '2347069096801'  //creator number
+global.ownernumber = '2347040577867'  //creator number
 global.ownername = 'NASS-WORKS' //owner name
 global.botname = 'BOT:ⁿNASS-WORKS' //name of the bot
 
